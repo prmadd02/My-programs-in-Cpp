@@ -1,4 +1,4 @@
-// Ninth Program: Tic-Tac-Toe Game
+// Tic-Tac-Toe Game
 // Author: Paul Maddox 
 // Date: 3/20/14
 
