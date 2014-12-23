@@ -1,5 +1,5 @@
 // Paul Maddox
-//Ordered Collection
+// Ordered Collection
 
 #include <iostream>
 #include <stdlib.h>
