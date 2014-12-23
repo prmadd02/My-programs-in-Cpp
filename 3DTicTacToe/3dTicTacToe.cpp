@@ -1,4 +1,4 @@
-// Tenth Program: 3D Tic-Tac-Toe Game
+// 3D Tic-Tac-Toe Game
 // Author: Paul Maddox
 // Date: 3/27/14
 // Section: 2
